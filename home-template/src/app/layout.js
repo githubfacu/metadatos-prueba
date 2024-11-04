@@ -26,10 +26,11 @@ export const metadata = {
   },
   openGraph: {
     title: "Caballos en Libertad - Protección, cuidado y rescate de equinos",
-    description: "Caballos en libertad nace hace más de 10 años como una Asociación civil sin fines de lucro encargada de la protección, cuidado y rescate de equinos, siendo una de las más importantes de la Provincia de Buenos Aires.",
+    description: "Asociación civil sin fines de lucro encargada de la protección, cuidado y rescate de equinos.",
+    url: "caballosenlibertad.org",
     images: [
       {
-        url: "/globe.svg",
+        url: "https://metadatos-prueba.vercel.app/globe.svg",
         width: 1200,
         height: 630,
         alt: "Logo descripción de la asociación",
