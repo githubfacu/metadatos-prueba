@@ -24,10 +24,10 @@ export const metadata = {
     template: '%s | Caballos en Libertad',
     default: "Caballos en Libertad",
   },
-  description: "Protección, cuidado y rescate de equinos.",
+  description: "Asociación civil sin fines de lucro encargada de la protección, cuidado y rescate de equinos.",
   openGraph: {
-    title: "Caballos en Libertad - Protección, cuidado y rescate de equinos",
-    description: "Asociación civil sin fines de lucro encargada de la protección, cuidado y rescate de equinos.",
+    title: "Caballos en Libertad",
+    description: "Protección, cuidado y rescate de equinos.",
     url: "caballosenlibertad.org",
     images: [
       {
@@ -46,7 +46,12 @@ export const metadata = {
     description: "Protección, cuidado y rescate de equinos.",
     images: "https://metadatos-prueba.vercel.app/svg/Group-hands-heart.svg",
     site: "CaballosEnLibertad",
-  }
+  },
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({ children }) {
