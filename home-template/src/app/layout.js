@@ -26,7 +26,7 @@ export const metadata = {
   },
   description: "Protección, cuidado y rescate de equinos.",
   twitter: {
-    card: "summary_large_image",
+    card: "summary",
     title: "Caballos en Libertad",
     description: "Protección, cuidado y rescate de equinos.",
     images: "https://metadatos-prueba.vercel.app/globe.svg",
