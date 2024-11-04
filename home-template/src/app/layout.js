@@ -24,12 +24,13 @@ export const metadata = {
     template: '%s | Caballos en Libertad',
     default: "Caballos en Libertad",
   },
+  description: "Protección, cuidado y rescate de equinos.",
   twitter: {
     card: "summary_large_image",
     title: "Caballos en Libertad",
     description: "Protección, cuidado y rescate de equinos.",
     images: "https://metadatos-prueba.vercel.app/globe.svg",
-    siteName: "CaballosEnLibertad",
+    site: "CaballosEnLibertad",
   }
 };
 
